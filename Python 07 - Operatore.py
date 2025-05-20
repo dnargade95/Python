@@ -1,4 +1,4 @@
-"""
+
 # Operatores in python - Arithmatic 
 
 a = 10
@@ -94,7 +94,7 @@ a =[10,20,30,40]
 print( 100 not in a)
 True
 
-"""
+
 
 a =[10,20,30,40]
 print( 100 not in a)
