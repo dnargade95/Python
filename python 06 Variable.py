@@ -85,6 +85,15 @@ print(a)
 
 
 
+a = range(10,20)
+for c in a:
+	print(c)
+
+a = range(10,20)
+for c in a:
+print(c)
+
+IndentationError: expected an indented block after 'for' statement on line 8
 
 
 
