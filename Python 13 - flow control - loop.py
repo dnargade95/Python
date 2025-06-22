@@ -1,6 +1,6 @@
 # loop in python
 
-"""        2 types of loop 
+       2 types of loop 
                    1 ->> for loop
                    2 ->> while loop 
 
@@ -72,7 +72,7 @@ for values in b:
 
 D:\Python_Daniel>
 
-"""
+
 b=[1,2,3,4,5,6,7,8,9]
 
 for values in b:
